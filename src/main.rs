@@ -1,3 +1,5 @@
+#![warn(clippy::pedantic)]
+
 use anyhow::{Context, Result};
 use structopt::StructOpt;
 
